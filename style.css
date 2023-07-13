@@ -1,0 +1,22 @@
+table{
+    margin: auto;
+    background: #ccc;
+}
+table button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: black;
+    color: white;
+border: none;
+}
+table tr td{
+    padding: 10px;
+}
+table input{
+    weight:95%;
+    border-radius: 10px;
+    height: 30px;
+    padding-right: 10px;
+    text-align: right;
+}
